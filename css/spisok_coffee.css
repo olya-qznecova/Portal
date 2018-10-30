@@ -1,0 +1,57 @@
+.name {
+  font-size: 30.8px;
+  letter-spacing: 1.2px;
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Jura", sans-serif; }
+
+.name2 {
+  color: #626262;
+  font-weight: 700;
+  line-height: 30px;
+  line-height-letter-spacing: 1.4px;
+  text-align: center;
+  margin-top: 15px;
+  font-family: "Jura", sans-serif; }
+
+.blocks {
+  margin-top: 150px; }
+
+.block {
+  width: 800px;
+  display: flex;
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 50px;
+  margin-bottom: 70px; }
+
+.block img {
+  width: 322px;
+  height: 207px; }
+
+.text-box {
+  margin-left: 40px; }
+
+.cafe-name {
+  color: black;
+  font-weight: 700;
+  font-size: 23.8px;
+  font-family: "Jura", sans-serif;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 20px; }
+
+.text-box p {
+  color: #626262;
+  font-family: "Roboto Mono", monospace;
+  margin-bottom: 15px; }
+
+.know-more {
+  text-decoration: none;
+  color: cadetblue;
+  font-family: "Roboto Mono", monospace; }
+
+.helper {
+  display: flex;
+  justify-content: space-between; }
+
+/*# sourceMappingURL=spisok_coffee.css.map */

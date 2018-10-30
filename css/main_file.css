@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css?family=Jura");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+* {
+  margin: 0;
+  padding: 0; }
+
+.container {
+  width: 1200px;
+  margin: 0 auto; }
+
+.main-screen {
+  width: 1600px;
+  background-color: #f2f2f2; }
+
+.header {
+  min-height: 70px;
+  line-height: 70px; }
+
+.logo {
+  font-family: "Jura", sans-serif;
+  font-weight: 700;
+  text-transform: capitalize;
+  color: black;
+  font-size: 30px; }
+
+.top {
+  display: flex; }
+
+.top a {
+  text-decoration: none; }
+
+form {
+  position: relative;
+  margin-left: 30px;
+  font-family: "Jura", sans-serif; }
+
+.search {
+  position: absolute;
+  top: -1px;
+  left: 200px;
+  width: 36px;
+  height: 36px;
+}
+
+.search button {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 36px;
+  color: #a4a4a4;
+  font-weight: 700;
+  transition: 1s; }
+
+.place {
+  width: 240px;
+  height: 38px;
+  border-radius: 0 3px 3px 0;
+  border: 1px solid #e6e6e6;
+  background-color: #ffffff;
+  color: #a4a4a4;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.35px;
+  padding-left: 16px;
+  box-sizing: border-box;
+  padding-right: 50px;
+  border-radius: 20px;
+}
+
+.menu-helper {
+  display: flex;
+  justify-content: space-between; }
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Alegreya", serif; }
+
+.menu ul {
+  display: flex;
+  list-style-type: none; }
+
+.menu a {
+  color: #626262;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 0 5px;
+  font-family: "Jura", sans-serif;
+  letter-spacing: 1px;
+  text-transform: lowercase;
+  font-size: 17px; }
+
+.menu li:hover {
+  color: #00B7FF; }
+
+.menu li {
+  margin-right: 25px;
+  transition: 0.5s; }
+
+.social {
+  color: white; }
+
+.social .fab:hover {
+  transform: scale(1.3); }
+
+.social .fab {
+  margin-right: 10px;
+  transition: 0.5s; }
+
+footer {
+  margin-top: 70px;
+  border-top: 1px solid #626262; }
+
+.footer {
+  min-height: 70px;
+  line-height: 70px; }
+
+.follow-us {
+  text-align: center; }
+
+/*# sourceMappingURL=main_file.css.map */

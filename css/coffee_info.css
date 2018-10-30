@@ -1,0 +1,148 @@
+.content {
+  margin-top: 70px;
+  text-align: center; }
+
+.content h2, h3 {
+  font-family: "Jura", sans-serif; }
+
+.content h2 {
+  font-size: 35px;
+  margin-bottom: 10px; }
+
+.content h3 {
+  color: #626262; }
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px; }
+
+.main-photo {
+  max-width: 930px;
+  max-height: 635px; }
+
+.gallery {
+  display: flex;
+  flex-direction: column; }
+
+.gallery img {
+  max-width: 280px;
+  max-height: 155px;
+  margin-bottom: 5px; }
+
+.description {
+  margin-top: 50px; }
+
+.description h2 {
+  margin-top: 20px; }
+
+.part1 {
+  display: flex;
+  justify-content: space-between; }
+
+.info {
+  width: 750px;
+  font-family: "Roboto Mono", monospace;
+  color: #626262;
+  text-align: start;
+  margin-bottom: 1em; }
+
+.location {
+  background-color: white;
+  box-sizing: border-box;
+  padding: 25px;
+  height: 250px; }
+
+.links {
+  text-align: right;
+  margin-bottom: 10px; }
+
+.links i {
+  margin-right: 15px; }
+
+.adress {
+  font-family: "Roboto Mono", monospace;
+  text-align: start;
+  color: #626262; }
+
+.adress h3 {
+  font-size: 16px;
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 10px;
+  margin-bottom: 10px; }
+
+.adress p {
+  margin-bottom: 10px; }
+
+.part2 {
+  margin-top: 70px;
+  display: flex;
+  justify-content: space-between; }
+
+.part2 p {
+  font-family: "Roboto Mono", monospace;
+  text-align: start;
+  margin-bottom: 1em;
+  width: 413.7931034483px;
+  color: #626262; }
+
+.price h3 {
+  margin-bottom: 10px;
+  font-size: 15.4px;
+  text-align: left;
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 10px;
+  font-family: "Roboto Mono", monospace; }
+
+.price ul li {
+  list-style-type: none;
+  text-align: left;
+  font-family: "Roboto Mono", monospace;
+  margin-bottom: 10px;
+  color: #626262; }
+
+.drinks {
+  display: flex;
+  justify-content: space-between;
+  width: 631.5789473684px;
+  border: 1px solid #c2c2c2;
+  padding: 35px 30px 30px 40px;
+  margin-bottom: 50px;
+  background-color: white; }
+
+.food {
+  border: 1px solid #c2c2c2;
+  padding: 35px 30px 30px 40px;
+  width: 631.5789473684px;
+  background-color: white; }
+
+.places-gallery {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+    justify-content-flex-wrap: wrap; }
+
+.places-gallery h2 {
+  width: 1200px;
+  margin-bottom: 70px;
+  font-family: "Jura", sans-serif;
+  font-size: 35px; }
+
+.places-gallery img {
+  max-width: 250px;
+  max-height: 200px; }
+
+.places-gallery img:last-child {
+  margin-right: 0; }
+
+.image-box {
+  text-align: start;
+  font-family: "Roboto Mono", monospace;
+  color: #626262; }
+
+.image-box h4 {
+  font-size: 18.2px;
+  margin-top: 15px;
+  width: 250px; }
+
+/*# sourceMappingURL=coffee_info.css.map */
